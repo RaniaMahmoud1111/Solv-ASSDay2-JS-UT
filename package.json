@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
+  "type": "cjs",
   "dependencies": {
     "chai": "^6.2.2",
     "express": "^5.2.1",
